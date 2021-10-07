@@ -2,7 +2,7 @@
 
 Lewis University Fall 1, 2020
 
-< /br >
+<br />
 
 ### ArrayQ.java
 Explain
