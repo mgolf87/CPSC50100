@@ -15,7 +15,7 @@ Stack operates at one end of the collection only, therefore the bottom of the st
 <br />
 
 ### LinkedNode.java
-Explain
+Linear nodes linked together creating a linear collection.
 
 <br />
 
@@ -25,17 +25,17 @@ Queue = linear collection, therefore the queue can be implemented as a linked li
 <br />
 
 ### LinkedStack.java
-Explain
+Linked stack where the elements are stored one above the other enabling insertion or deletion only at the top end. Elements move down in position when a new element is added, only the top element can be accessed. O(1) time.
 
 <br />
 
 ### Marathon(20201018_231616).java
-Explain
+Program which enables user interaction to enter in participant (runner) names and times. Once finished we can then select to see the fastest or slowest runners ordered as such. 
 
 <br />
 
 ### Palindromes.java
-Explain
+Iterate through a sequence checking if it is a palindrome. Palindrome = word, phrase, sentence, or sequence that reads the same backward or forward ('ATATA' or 'racecar').
 
 <br />
 
